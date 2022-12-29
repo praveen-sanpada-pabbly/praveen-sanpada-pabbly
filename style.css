@@ -1,0 +1,76 @@
+ body{
+	/* background: #03fcec; */
+	background-color: plum;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1{
+	font-size: 40px;
+	font-family: sans-serif;
+}
+
+
+th{
+	text-align: center;
+}
+
+
+h2{
+	background: linear-gradient(45deg,red,black,red);
+	color: white;
+	padding: 15px;
+	border-radius: 50%;
+	width: 100%;
+	margin: auto;
+	box-shadow: 0 0 10px black;
+	font-family: sans-serif;
+}
+
+table,td,th{
+	border: 2px solid black;
+}
+
+td,th{
+	padding: 5px;
+}
+
+table{
+	margin: auto;
+	width: 100%;
+	text-align: center;
+
+}
+
+
+
+a{
+	text-decoration: none;
+	color: black;
+}
+.praveen-img-top{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+}
+
+.praveen-img{
+	width: 290px;
+	height: 340px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px black;
+}
+
+.praveen-lang{
+	width: 100px;
+	height: 100px;
+}
+
+.row{
+	margin: auto;
+	text-align: center;
+}
+
+.col-sm-4{
+	padding: 10px;
+}
